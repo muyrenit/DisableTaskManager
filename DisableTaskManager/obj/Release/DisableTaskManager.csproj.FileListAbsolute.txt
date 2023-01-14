@@ -1,0 +1,8 @@
+C:\Users\HB\source\repos\DisableTaskManager\DisableTaskManager\bin\Release\DisableTaskManager.exe.config
+C:\Users\HB\source\repos\DisableTaskManager\DisableTaskManager\bin\Release\DisableTaskManager.exe
+C:\Users\HB\source\repos\DisableTaskManager\DisableTaskManager\bin\Release\DisableTaskManager.pdb
+C:\Users\HB\source\repos\DisableTaskManager\DisableTaskManager\obj\Release\DisableTaskManager.csproj.AssemblyReference.cache
+C:\Users\HB\source\repos\DisableTaskManager\DisableTaskManager\obj\Release\DisableTaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\HB\source\repos\DisableTaskManager\DisableTaskManager\obj\Release\DisableTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\HB\source\repos\DisableTaskManager\DisableTaskManager\obj\Release\DisableTaskManager.exe
+C:\Users\HB\source\repos\DisableTaskManager\DisableTaskManager\obj\Release\DisableTaskManager.pdb
